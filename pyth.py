@@ -6,4 +6,5 @@ print('df vh ')
 print('df vh ')
 print('jbdf')
 print('hello')
-print("Hi")
+a=10
+print(a)
